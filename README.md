@@ -26,3 +26,12 @@ Drip coffee maker | 1 | 600 W | 4
 Toaster | 1 | 700 W | 22
 Workstation group (laptop, 2x Monitor 21”, speaker) | 1 | 150 W, 2x 60-120 W, 20 W | 13
 Total | 17 |  | 553
+
+# Dataset
+The dataset is available online using the following link (https://aegeangr-my.sharepoint.com/:f:/g/personal/kalliger_aegean_gr/EqM-yYfvKyFDktk8ToXGq3UBZRUwaYe1_sgUj3rzNBFXEw?e=73cdtM)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
