@@ -1,34 +1,34 @@
 
 # SPHERA-dataset
-Repository for the NILM oriented SPHERA dataset
+Repository of the NILM oriented SPHERA dataset
 # Description 
-The Single Person House Energy Recorderd dAta has been collected from an one person apartment in Greece during the winter period. The electrical installation is a 220 V 50 Hz single phase AC powerline feeds all of the circuit breakers. 
-- The dataset includes voltage and current wave-form readigns of the appartment located in Athens. ![Image](https://1drv.ms/i/s!AmFGInrVgNofnaEgzkQLpM8U_klEKg?e=f7XEVp)
-- The total duration of the recorded data is approximately 7 days. 
-- The aggregated energy signal is recorded at 64kHz sampling frequency 
-- A total of 17 appliances are recorded as shown in Table 1
+The SPHERA dataset was collected from an one-person apartment in Athens, Greece during the winter period (SPHERA stands for Single-Person House Energy Recorded datA). The characteristics of the monitored AC electrical installation are: single phase, 220 V (RMS), 50 Hz.
+- The dataset includes aggregated voltage and current measurements, taken at the apartment’s electrical panel, right after the mains switch
+- Sampling frequency: 64 kHz 
+- Duration: approximately 7 days 
+- The activity of 16 appliances and one group of appliances ![Image](https://1drv.ms/i/s!AmFGInrVgNofnaEgzkQLpM8U_klEKg?e=f7XEVp), reported in the following table, was logged:
 ## Table 1 individually monitored appliances 
 Appliance or appliance-group | Quantity | Power | Events
 ---| --- | --- | --- |
-Air heating unit | 1 | 2000 W | 25
-Game console | 1 | 80 W | 5
+Air heating unit | 1 | 2000 W | 27
+Game console | 1 | 80 W | 7
 Smart TV 55’’ | 1 | 210 W | 28
 Smart TV 42’’ | 1 | 180 W | 13
-Smart bulbs | 3 | 8.5 W | 20
-Hallway light | 1 | 25 W | 43
-Bathroom light | 1 | 25 W | 117
-Water heater | 1 | 4000 W | 156
+Smart bulbs | 3 | 8.5 W | 27
+Hallway light | 1 | 25 W | 33
+Bathroom light | 1 | 25 W | 113
+Water heater | 1 | 4000 W | 139
 Hair drier | 1 | 1700 W | 6
 Kitchen light | 1 | 32 W | 24
-Refrigerator | 1 | 200 W | 63
-Microwave | 1 | 1500 W | 14
-Drip coffee maker | 1 | 600 W | 4
-Toaster | 1 | 700 W | 22
-Workstation group (laptop, 2x Monitor 21”, speaker) | 1 | 150 W, 2x 60-120 W, 20 W | 13
-Total | 17 |  | 553
+Refrigerator | 1 | 200 W | 73
+Microwave | 1 | 1500 W | 6
+Drip coffee maker | 1 | 600 W | 2
+Toaster | 1 | 700 W | 12
+Workstation group (laptop, 2x Monitor 21”, speaker) | 1 | 150 W, 2x 60-120 W, 20 W | 17
+Total | 17 |  | 527
 
 # Dataset
-The dataset is available online using the following link (https://aegeangr-my.sharepoint.com/:f:/g/personal/kalliger_aegean_gr/EqM-yYfvKyFDktk8ToXGq3UBZRUwaYe1_sgUj3rzNBFXEw?e=73cdtM)
+The dataset is available online, in the following link: https://aegeangr-my.sharepoint.com/:f:/g/personal/kalliger_aegean_gr/EqM-yYfvKyFDktk8ToXGq3UBZRUwaYe1_sgUj3rzNBFXEw?e=73cdtM
 
 
 ## License
