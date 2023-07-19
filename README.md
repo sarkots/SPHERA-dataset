@@ -9,7 +9,7 @@ The SPHERA dataset was collected from an one-person apartment in Athens, Greece 
 - The activity of 16 appliances and one group of appliances was logged
 ## Appartment Layout 
 ![Image](https://github.com/sarkots/SPHERA-dataset/blob/main/images/Layout.png)
-## Table 1 monitored appliances and appliance-group 
+## Monitored appliances and appliance-group 
 Appliance or appliance-group | Quantity | Power | Events
 ---| --- | --- | --- |
 Air heating unit | 1 | 2000 W | 27
