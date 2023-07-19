@@ -30,8 +30,7 @@ Workstation group (laptop, 2x Monitor 21”, speaker) | 1 | 150 W, 2x 60-120 W, 
 Total | 17 |  | 527
 
 # Dataset
-The dataset is available online, in the following link: https://aegeangr-my.sharepoint.com/:f:/g/personal/kalliger_aegean_gr/EqM-yYfvKyFDktk8ToXGq3UBZRUwaYe1_sgUj3rzNBFXEw?e=73cdtM
-
+The dataset is available online, in the following link: https://aegeangr-my.sharepoint.com/:f:/g/personal/kalliger_aegean_gr/EqM-yYfvKyFDktk8ToXGq3UB_CbE4k80NZ_JiyX3qJnPZA?e=SbOSog
 
 ## License
 
