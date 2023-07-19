@@ -6,7 +6,9 @@ The SPHERA dataset was collected from an one-person apartment in Athens, Greece 
 - The dataset includes aggregated voltage and current measurements, taken at the apartment’s electrical panel, right after the mains switch
 - Sampling frequency: 64 kHz 
 - Duration: approximately 7 days 
-- The activity of 16 appliances and one group of appliances ![Image](https://github.com/sarkots/SPHERA-dataset/blob/main/images/Layout.png), reported in the following table, was logged:
+- The activity of 16 appliances and one group of appliances, reported in the following table, was logged:
+## Appartment Layout 
+![Image](https://github.com/sarkots/SPHERA-dataset/blob/main/images/Layout.png)
 ## Table 1 individually monitored appliances 
 Appliance or appliance-group | Quantity | Power | Events
 ---| --- | --- | --- |
