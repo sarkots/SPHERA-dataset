@@ -7,7 +7,7 @@ The SPHERA dataset was collected from an one-person apartment in Athens, Greece 
 - Sampling frequency: 64 kHz 
 - Duration: approximately 7 days 
 - The activity of 16 appliances and one group of appliances was logged
-## Appartment Layout 
+## Appartment floor plan 
 ![Image](https://github.com/sarkots/SPHERA-dataset/blob/main/images/Layout.png)
 ## Monitored appliances and appliance-group 
 Appliance or appliance-group | Quantity | Power | Events
