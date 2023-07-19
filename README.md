@@ -1,12 +1,12 @@
 
-# SPHERA-dataset
+# SPHERA dataset
 Repository of the NILM oriented SPHERA dataset
 # Description 
 The SPHERA dataset was collected from an one-person apartment in Athens, Greece during the winter period (SPHERA stands for Single-Person House Energy Recorded datA). The characteristics of the monitored AC electrical installation are: single phase, 220 V (RMS), 50 Hz.
 - The dataset includes aggregated voltage and current measurements, taken at the apartment’s electrical panel, right after the mains switch
 - Sampling frequency: 64 kHz 
 - Duration: approximately 7 days 
-- The activity of 16 appliances and one group of appliances, reported in the following table, was logged:
+- The activity of 16 appliances and one group of appliances was logged
 ## Appartment Layout 
 ![Image](https://github.com/sarkots/SPHERA-dataset/blob/main/images/Layout.png)
 ## Table 1 individually monitored appliances 
